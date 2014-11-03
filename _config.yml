@@ -12,3 +12,10 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+navigation:
+  - text: Home
+    url: /
+  - text: Projects
+    url: /projects/
+  - text: About
+    url: /about/

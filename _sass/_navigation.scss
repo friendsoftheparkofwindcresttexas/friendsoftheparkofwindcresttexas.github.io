@@ -1,0 +1,26 @@
+nav {
+    background-color: black;
+    height: 3.5rem;
+    width: 100%;
+}
+
+.main-navigation-link {
+    color: rgb(25, 197, 135);
+    font-size: 1.75rem;
+    height: 3.5rem;
+    letter-spacing: 0.2rem;
+    line-height: 3.5rem;
+    padding: 0 .5rem;
+    text-decoration: none;
+
+    &.active {
+        background-color: rgb(25, 197, 135);
+        color: black;
+        display: inline-block;
+    }
+
+    &:first-of-type {
+    }
+}
+
+
