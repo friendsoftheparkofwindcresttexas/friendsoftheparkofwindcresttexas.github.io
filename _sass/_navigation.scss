@@ -73,6 +73,11 @@ nav {
         width: 100%;
     }
 
+    .navigation-wrapper {
+        margin: 0 auto;
+        width: 960px;
+    }
+
     .main-navigation-link {
         color: rgb(25, 197, 135);
         font-size: 1.75rem;
@@ -89,8 +94,7 @@ nav {
         }
 
         &:first-of-type {
+            border-left: 1px solid gray;
         }
     }
 }
-
-

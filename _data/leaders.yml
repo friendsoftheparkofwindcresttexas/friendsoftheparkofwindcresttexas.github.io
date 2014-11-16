@@ -1,0 +1,11 @@
+- name: Mr. Don Myles
+  image:
+  role: President/Treasurer
+
+- name: Mrs. Ann Friday
+  image:
+  role: Secretary
+
+- name: Mrs. Evelyn Eans
+  image:
+  role: Director

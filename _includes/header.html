@@ -1,5 +1,7 @@
 <nav>
-    {% for link in site.data.navigation-links %}
-        <a href="{{link.url}}" class="main-navigation-link{% if page.url == link.url %} active{% endif %}" title="{{link.title}}">{{link.text}}</a>
-    {% endfor %}
+    <div class="navigation-wrapper">
+        {% for link in site.data.navigation-links %}
+            <a href="{{link.url}}" class="main-navigation-link{% if page.url == link.url %} active{% endif %}" title="{{link.title}}">{{link.text}}</a>
+        {% endfor %}
+    </div>
 </nav>
