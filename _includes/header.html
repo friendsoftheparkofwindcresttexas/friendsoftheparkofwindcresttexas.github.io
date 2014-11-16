@@ -1,5 +1,8 @@
 <nav>
-{% for link in site.navigation %}
-    <a href="{{link.url}}" class="main-navigation-link{% if page.url == link.url %} active{% endif %}" title="{{link.title}}">{{link.text}}</a>
-{% endfor %}
+    <input type="button" id="navigation-toggle">
+    <div class="navigation-links">
+    {% for link in site.navigation %}
+        <a href="{{link.url}}" class="main-navigation-link{% if page.url == link.url %} active{% endif %}" title="{{link.title}}">{{link.text}}</a>
+    {% endfor %}
+    </div>
 </nav>

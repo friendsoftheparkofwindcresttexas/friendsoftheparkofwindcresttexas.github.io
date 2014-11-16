@@ -4,6 +4,26 @@ nav {
     width: 100%;
 }
 
+#navigation-toggle {
+    display: inline-block;
+    height: 100%;
+    width: 3rem;
+    background-color: green;
+    border: none;
+}
+
+.navigation-links.closed {
+    max-height:0;
+}
+
+.navigation-links {
+    overflow-y: hidden;
+    max-height: 500px; /* approximate max height */
+    transition-property: all;
+    transition-duration: .5s;
+    transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+}
+
 .main-navigation-link {
     color: rgb(25, 197, 135);
     font-size: 1.75rem;
@@ -12,14 +32,64 @@ nav {
     line-height: 3.5rem;
     padding: 0 .5rem;
     text-decoration: none;
+    display: inline-block;
 
     &.active {
         background-color: rgb(25, 197, 135);
         color: black;
-        display: inline-block;
     }
 
-    &:first-of-type {
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.navigation-toggle {
+    display: none;
+
+    ~ label {
+        float: left;
+        display: none;
+        width: 2rem;
+        height: 3.5rem;
+    }
+
+    &[value="toggle-off"]:checked ~ [for="navigation-toggle-on"] {
+        display: inline-block;
+        background-color: red;
+    }
+
+    &[value="toggle-on"]:checked ~ [for="navigation-toggle-off"] {
+        display: inline-block;
+        background-color: green;
+    }
+}
+
+@media screen and (min-width: 800px) {
+
+    nav {
+        background-color: black;
+        height: 3.5rem;
+        width: 100%;
+    }
+
+    .main-navigation-link {
+        color: rgb(25, 197, 135);
+        font-size: 1.75rem;
+        height: 3.5rem;
+        letter-spacing: 0.2rem;
+        line-height: 3.5rem;
+        padding: 0 .5rem;
+        text-decoration: none;
+
+        &.active {
+            background-color: rgb(25, 197, 135);
+            color: black;
+            display: inline-block;
+        }
+
+        &:first-of-type {
+        }
     }
 }
 

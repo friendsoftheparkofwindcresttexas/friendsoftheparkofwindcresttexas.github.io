@@ -1,20 +1,25 @@
 .site-title {
     font-size: 5.1875rem;
     color: white;
+    max-width: 75%;
+    margin: 3rem auto 2rem;
+    overflow: auto;
 }
 
 .site-fop {
-
+    float: left;
 }
 
 .site-city {
-
+    float: right;
 }
 
 .site-heading {
     font-family: 'Josefin Slab', serif;
-    height: 200px;
     width: 100%;
     background-image: url('/images/main-section.jpg');
     background-size: cover;
+    display: inline-block;
+    text-align: center;
+    overflow: auto;
 }
