@@ -44,26 +44,26 @@ nav {
     }
 }
 
-.navigation-toggle {
-    display: none;
+// .navigation-toggle {
+//     display: none;
 
-    ~ label {
-        float: left;
-        display: none;
-        width: 2rem;
-        height: 3.5rem;
-    }
+//     ~ label {
+//         float: left;
+//         display: none;
+//         width: 2rem;
+//         height: 3.5rem;
+//     }
 
-    &[value="toggle-off"]:checked ~ [for="navigation-toggle-on"] {
-        display: inline-block;
-        background-color: red;
-    }
+//     &[value="toggle-off"]:checked ~ [for="navigation-toggle-on"] {
+//         display: inline-block;
+//         background-color: red;
+//     }
 
-    &[value="toggle-on"]:checked ~ [for="navigation-toggle-off"] {
-        display: inline-block;
-        background-color: green;
-    }
-}
+//     &[value="toggle-on"]:checked ~ [for="navigation-toggle-off"] {
+//         display: inline-block;
+//         background-color: green;
+//     }
+// }
 
 @media screen and (min-width: 800px) {
 
