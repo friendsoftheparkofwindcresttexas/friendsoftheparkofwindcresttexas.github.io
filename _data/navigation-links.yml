@@ -1,5 +1,7 @@
 - text: Home
   url: /
+- text: News
+  url: /news/
 - text: Projects
   url: /projects/
 - text: About
