@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-<h1>Woo!</h1>
+# Projects
 
 <ul class="project-list">
   {% for project in site.categories.project %}
@@ -13,7 +13,7 @@ permalink: /projects/
       <article class="project-tile">
         <img src="{{ project.image }}" alt="">
         <h1>{{ project.title }}</h1>
-        <time>{{ project.date | date: "%-d %B %Y" }}</time>
+        <time>{{ project.date | date: "%B %-d, %Y" }}</time>
         <p>{{ project.excerpt }}</p>
       </article>
     </a>
