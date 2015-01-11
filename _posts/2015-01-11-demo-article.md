@@ -26,7 +26,7 @@ This is the second paragraph. It will be one unbroken chunk of text until there 
 - List item 3
 
 1. Ordered List Item
-1. Ordered List Item
-1. Ordered List Item
+2. Ordered List Item
+3. Ordered List Item
 
 ![Image Name](/images/Rackers Volunteer Week, Nov 14, Autumn Sunset.jpg)
