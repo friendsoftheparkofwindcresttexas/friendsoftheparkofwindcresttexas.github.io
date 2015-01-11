@@ -11,7 +11,7 @@ permalink: /news/
   <li>
     <a href="{{ article.url }}">
       <article class="news-tile">
-        <img src="http://placehold.it/180x180" alt="">
+        <img src="{{ article.image }}" class="article-snippet-image">
         <h1>{{ article.title }}</h1>
         <p>{{ article.excerpt }}</p> 
       </article>

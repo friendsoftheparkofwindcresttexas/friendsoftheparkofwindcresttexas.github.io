@@ -7,6 +7,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://windcrestfotp.com" # the base hostname & protocol for your site
 twitter_username: WindcrestFOTP
 github_username: FriendsoftheParkofWindcrestTexas
-
+paginator: 5
 # Build settings
 markdown: kramdown

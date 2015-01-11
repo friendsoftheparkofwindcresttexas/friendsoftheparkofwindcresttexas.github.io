@@ -28,11 +28,20 @@ h6 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin-bottom: 2rem;
+    margin: 2rem 0 1rem;
 }
 
 p {
     font-family: $base-font-family;
-    font-size: 1.3125rem;
+    font-size: 1.75rem;
     margin-bottom: 1rem;
+    line-height: 2.25rem;
+}
+
+.address {
+    background-image: url('/images/Rackers Volunteer Week, Nov 14, raising scaffold 1.JPG');
+    background-size: 200px;
+    background-repeat: no-repeat;
+    margin-left: 3rem;
+    padding-left: 232px;
 }

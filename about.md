@@ -10,4 +10,16 @@ Windcrest's Friends of the Park was established in summer 2011 by Mr. Ted Hanes 
 
 ## Leadership
 
-
+<ul class="tile-list">
+  {% for leader in site.data.leaders %}
+  <li>
+    <article class="tile">
+      <img src="{{ leader.image }}" alt="{{ leader.name }} Portrait" class="portrait">
+      <h1>{{ leader.name }}</h1>
+      <h4>{{ leader.role }}</h4>
+      <p>{{ leader.description }}</p>
+    </article>
+  </li>
+  {% endfor %}
+</ul>
+<br>

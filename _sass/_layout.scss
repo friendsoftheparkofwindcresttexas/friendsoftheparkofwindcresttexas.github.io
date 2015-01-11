@@ -7,7 +7,8 @@ body {
 
 .content {
     background-color: white;
-    width: 960px;
+    width: 100%;
+    max-width: 960px;
     padding: 1rem;
     margin: 0 auto;
 }
@@ -17,7 +18,14 @@ main {
     flex: 1;
 }
 
+.main {
+    @include flexbox;
+    @include flex-direction(column);
+}
+
 .featured {
-    max-width: 960px;
-    margin: 2rem auto;
+    @include flex(1);
+    @include flexbox;
+    @include align-items(center);
+    @include justify-content(space-between);
 }

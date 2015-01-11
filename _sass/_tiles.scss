@@ -1,4 +1,4 @@
-.project-tile {
+.tile {
 
     background-color: rgb(25, 197, 135);
     color: white;
@@ -20,7 +20,6 @@
     }
 
     img {
-        background-image: url('/images/main-section.jpg');
         box-sizing: border-box;
         height: 100%;
         left:0;
@@ -44,7 +43,7 @@
     }
 }
 
-.tile-list {
+.project-list {
     @include flexbox;
     @include flex-flow(row wrap);
     @include justify-content(space-around);
@@ -59,7 +58,12 @@
         height: 300px;
     }
 
-    .tile {
+    .project-tile {
         width: 100%;
     }
+}
+
+.portrait {
+    background-image: url('http://upload.wikimedia.org/wikipedia/en/b/b1/Portrait_placeholder.png');
+    background-size: cover;
 }

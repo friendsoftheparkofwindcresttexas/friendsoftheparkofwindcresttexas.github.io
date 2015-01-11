@@ -19,3 +19,7 @@ Your membership fee goes directly towards funding our projects and supporting us
 - Fellow ($250)
 - Patron ($500)
 - Benefactor ($1000)
+
+## Next Step
+
+If you would like to become a member, please [contact us](/contact)! 
