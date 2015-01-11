@@ -6,11 +6,11 @@ body {
 }
 
 .content {
+    @include rem(padding, 1);
     background-color: white;
-    width: 100%;
-    max-width: 960px;
-    padding: 1rem;
     margin: 0 auto;
+    max-width: 960px;
+    width: 100%;
 }
 
 main {
@@ -28,4 +28,8 @@ main {
     @include flexbox;
     @include align-items(center);
     @include justify-content(space-between);
+}
+
+.membership-levels {
+    @include rem(margin-left, 3);
 }

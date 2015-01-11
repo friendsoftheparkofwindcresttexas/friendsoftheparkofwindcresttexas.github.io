@@ -67,3 +67,17 @@
     background-image: url('http://upload.wikimedia.org/wikipedia/en/b/b1/Portrait_placeholder.png');
     background-size: cover;
 }
+
+@media screen and (max-width: 960px) {
+    .tile img,
+    .project-tile img {
+        opacity: 0.1;
+    }
+
+    .tile, .project-tile {
+        &:hover img,
+        &:focus img {
+            opacity: 1;
+        }
+    }
+}

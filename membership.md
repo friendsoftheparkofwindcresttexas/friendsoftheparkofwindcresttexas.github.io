@@ -13,12 +13,14 @@ Your membership fee goes directly towards funding our projects and supporting us
 
 ## Membership Levels
 
-- Individual Membership ($25)
-- Family Membership ($45)
-- Sponsor ($100)
-- Fellow ($250)
-- Patron ($500)
-- Benefactor ($1000)
+<ul class="membership-levels">
+    <li>Individual Membership ($25)</li>
+    <li>Family Membership ($45)</li>
+    <li>Sponsor ($100)</li>
+    <li>Fellow ($250)</li>
+    <li>Patron ($500)</li>
+    <li>Benefactor ($1000)</li>
+</ul>
 
 ## Next Step
 

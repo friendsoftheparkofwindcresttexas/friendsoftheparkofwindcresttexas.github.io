@@ -1,15 +1,15 @@
 nav {
+    @include rem(height, 3.5);
     background-color: black;
-    height: 3.5rem;
     width: 100%;
 }
 
 #navigation-toggle {
-    display: inline-block;
-    height: 100%;
-    width: 3rem;
+    @include rem(width, 3);
     background-color: green;
     border: none;
+    display: inline-block;
+    height: 100%;
 }
 
 .navigation-links.closed {
@@ -17,22 +17,22 @@ nav {
 }
 
 .navigation-links {
-    overflow-y: hidden;
     max-height: 500px; /* approximate max height */
-    transition-property: all;
+    overflow-y: hidden;
     transition-duration: .5s;
+    transition-property: all;
     transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
 }
 
 .main-navigation-link {
+    @include rem(font-size, 1.75);
+    @include rem(height, 3.5);
+    @include rem(letter-spacing, 0.2);
+    @include rem(line-height, 3.5);
+    @include rem(padding, 0, 0.5);
     color: rgb(25, 197, 135);
-    font-size: 1.75rem;
-    height: 3.5rem;
-    letter-spacing: 0.2rem;
-    line-height: 3.5rem;
-    padding: 0 .5rem;
-    text-decoration: none;
     display: inline-block;
+    text-decoration: none;
 
     &.active {
         background-color: rgb(25, 197, 135);
@@ -44,32 +44,11 @@ nav {
     }
 }
 
-// .navigation-toggle {
-//     display: none;
-
-//     ~ label {
-//         float: left;
-//         display: none;
-//         width: 2rem;
-//         height: 3.5rem;
-//     }
-
-//     &[value="toggle-off"]:checked ~ [for="navigation-toggle-on"] {
-//         display: inline-block;
-//         background-color: red;
-//     }
-
-//     &[value="toggle-on"]:checked ~ [for="navigation-toggle-off"] {
-//         display: inline-block;
-//         background-color: green;
-//     }
-// }
-
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 961px) {
 
     nav {
+        @include rem(height, 3.5);
         background-color: black;
-        height: 3.5rem;
         width: 100%;
     }
 
@@ -79,12 +58,12 @@ nav {
     }
 
     .main-navigation-link {
+        @include rem(font-size, 1.75);
+        @include rem(height, 3.5);
+        @include rem(letter-spacing, 0.2);
+        @include rem(line-height, 3.5);
+        @include rem(padding, 0, .5);
         color: rgb(25, 197, 135);
-        font-size: 1.75rem;
-        height: 3.5rem;
-        letter-spacing: 0.2rem;
-        line-height: 3.5rem;
-        padding: 0 .5rem;
         text-decoration: none;
 
         &.active {
@@ -96,5 +75,23 @@ nav {
         &:first-of-type {
             border-left: 1px solid gray;
         }
+    }
+}
+
+@media screen and (max-width: 960px) {
+
+    nav {
+        background-color: black;
+        width: 100%;
+        height: auto;
+    }
+
+    .navigation-wrapper {
+        @include flexbox;
+        @include flex-flow(column);
+        @include justify-content(space-between);
+        margin: 0 auto;
+        text-align: center;
+        width: 100%;
     }
 }

@@ -1,47 +1,69 @@
 html {
     font-size: 16px;
     font-family: 'Josefin Slab', Tahoma,  serif;
+    -webkit-text-size-adjust:none;
 }
 
 h1 {
-    font-size: 5.1875rem;
+    @include rem(font-size, 5.1875);
+    @include rem(min-height, 5.1875);
 }
 
 h2 {
-    font-size: 4.1875rem;
+    @include rem(font-size, 4.1875);
+    @include rem(min-height, 4.1875);
 }
 
 h3 {
-    font-size: 3.125rem;
+    @include rem(font-size, 3.125);
+    @include rem(min-height, 3.125);
 }
 
 h4 {
-    font-size: 1.75rem;
+    @include rem(font-size, 1.75);
+    @include rem(min-height, 1.75);
 }
 
 h5 {
-    font-size: 1.3125rem;
+    @include rem(font-size, 1.3125);
+    @include rem(min-height, 1.3125);
 }
 
 h6 {
-    font-size: 1rem;
+    @include rem(font-size, 1);
+    @include rem(min-height, 1);
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin: 2rem 0 1rem;
+    @include rem (margin, 2, 0, 1);
 }
 
 p {
     font-family: $base-font-family;
-    font-size: 1.75rem;
-    margin-bottom: 1rem;
-    line-height: 2.25rem;
+    @include rem(font-size, 1.75);
+    @include rem(margin-bottom, 1);
+    @include rem(line-height, 2.25);
 }
 
 .address {
     background-image: url('/images/Rackers Volunteer Week, Nov 14, raising scaffold 1.JPG');
     background-size: 200px;
     background-repeat: no-repeat;
-    margin-left: 3rem;
+    @include rem(margin-left, 3);
     padding-left: 232px;
+}
+
+@media screen and (max-width: 500px) {
+    html {
+        font-size: 12px;
+    }
+}
+
+ul {
+    @include rem(font-size, 2);
+    font-family: $base-font-family;
+
+    li {
+        @include rem(margin-bottom, 0.75);
+    }
 }

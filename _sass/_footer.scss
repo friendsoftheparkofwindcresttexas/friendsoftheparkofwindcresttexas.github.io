@@ -1,19 +1,19 @@
 footer {
     background-color: rgb(25, 197, 135);
-    height: 2rem;
-    line-height: 2rem;
+    @include rem(height, 2);
+    @include rem(line-height, 2);
 
     .footer-content {
         max-width: 960px;
         margin: 0 auto;
         text-align: center;
-        height: 2rem;
-        line-height: 2rem;
+        @include rem(height, 2);
+        @include rem(line-height, 2);
     }
 }
 
 @media screen and (max-width: 960px) {
     .footer-content {
-        font-size: 0.75rem
+        @include rem(font-size, 0.75);
     }
 }

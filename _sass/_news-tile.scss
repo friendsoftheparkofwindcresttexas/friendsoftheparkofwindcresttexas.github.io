@@ -10,12 +10,12 @@
     width: 100%;
 
     h1 {
-        font-size: 3.1875rem;
-        margin-bottom: 1rem;
+        @include rem(font-size, 3.1875);
+        @include rem(margin-bottom, 1);
     }
 
     time {
-        margin-bottom: 0.5rem;
+        @include rem(margin-bottom, 0.5);
     }
 
     img {
@@ -29,24 +29,24 @@
     }
 
     &:after {
+        @include rem(font-size, 2);
         bottom: 10px;
         content:"\2026";
         display:inline-block;
-        font-size: 2rem;
         position: absolute;
         right: 10px;
     }
 
     p {
+        @include rem(font-size, 1);
+        @include rem(line-height, 1);
+        @include rem(margin-bottom, 1);
         font-family: $base-font-family;
-        font-size: 1rem;
-        line-height: 1rem;
-        margin-bottom: 1rem;
     }
 }
 
 .news-list {
     li {
-        margin-bottom: 2rem;
+        @include rem(margin-bottom, 2);
     }
 }
