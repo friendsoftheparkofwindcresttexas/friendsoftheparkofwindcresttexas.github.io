@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title:  "Demo Article"
 categories: news
 excerpt: This article was generated during the FotP Meeting
