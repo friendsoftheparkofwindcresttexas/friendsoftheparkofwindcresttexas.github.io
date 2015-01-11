@@ -10,3 +10,4 @@ github_username: FriendsoftheParkofWindcrestTexas
 paginator: 5
 # Build settings
 markdown: kramdown
+permalink: pretty

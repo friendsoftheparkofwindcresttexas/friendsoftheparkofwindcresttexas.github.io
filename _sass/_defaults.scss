@@ -67,3 +67,7 @@ ul {
         @include rem(margin-bottom, 0.75);
     }
 }
+
+.post-content img {
+    float:right;
+}
