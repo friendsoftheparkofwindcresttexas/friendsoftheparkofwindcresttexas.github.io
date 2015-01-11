@@ -12,3 +12,8 @@
   image:
   role: Director
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio quos itaque voluptas ab. Nemo eaque est vel magnam quisquam, voluptate, ducimus tenetur.
+
+- name: Bob Jones
+  image:
+  role: Does Awesome Stuff
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio quos itaque voluptas ab. Nemo eaque est vel magnam quisquam, voluptate, ducimus tenetur.
