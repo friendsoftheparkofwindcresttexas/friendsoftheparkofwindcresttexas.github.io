@@ -24,4 +24,4 @@ Your membership fee goes directly towards funding our projects and supporting us
 
 ## Next Step
 
-If you would like to become a member, please [contact us](/contact)! 
+If you would like to become a member, please complete [application](/files/???.pdf) and then [contact us](/contact)! 
