@@ -25,9 +25,6 @@
     &.center {
         display: table;
         margin: auto;
-        figcaption {
-            display: block;
-        }
     }
 }
 
@@ -39,7 +36,6 @@
         background-color: black;
         bottom: 0;
         color: white;
-        display: inline-block;
         font-family: $base-font-family;
         position: absolute;
         text-align: center;
