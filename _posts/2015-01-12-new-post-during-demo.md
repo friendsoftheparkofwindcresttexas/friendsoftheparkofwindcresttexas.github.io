@@ -8,6 +8,8 @@ image: /images/FOTP, Mark Kroeze, Texas Urban Forestry and Steve Kohn, April 201
 
 ### Big Point To Make
 
+I AM MAKING A BIG POINT!
+
 ![Some Great Image](/images/Rackers%20Volunteer%20Week%2C%20Nov%2014%2C%20Autumn%20Sunset.jpg)
 
 And here I make my point.And here I make my point.
