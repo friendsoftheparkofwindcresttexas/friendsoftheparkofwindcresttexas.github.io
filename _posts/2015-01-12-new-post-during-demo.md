@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "New Post During Demo"
+title:  "Under Construction"
 categories: news
-excerpt: So this will be the little blurb.
+excerpt: Grand opening about mid-February
 image: /images/FOTP, Mark Kroeze, Texas Urban Forestry and Steve Kohn, April 2014.JPG 
 ---
 
