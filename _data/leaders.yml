@@ -1,7 +1,7 @@
-- name: Mr. Don Myles
-  image:
-  role: President/Treasurer
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio quos itaque voluptas ab. Nemo eaque est vel magnam quisquam, voluptate, ducimus tenetur.
+- name: Scott Gorton
+  image: images\scott gorton.jpg
+  role: President
+  description: Looking forward to providing leadership to our organization in the spirit of Ted Hanes and Donald Myles.
 
 - name: Mrs. Ann Friday
   image:
