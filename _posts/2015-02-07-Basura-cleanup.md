@@ -13,7 +13,7 @@ A great day when we'll help clean our local waters
 ![Map of city wide cleanup](/images/basura map 21 Feb 15.jpg)
 
 
-Scott Gorton:
+## Scott Gorton:
 
 8 am check in, 9 - noon clean up.
 
@@ -25,7 +25,7 @@ I believe if we set Brook Falls Lake as a meeting point we can plan on doing:
 
 - Walzem Creek from Golf course/Midcrown past Windway to Windsor Hill
 
-     Yes, all of our creekways drain into Salado
+     # Yes, all of our creekways drain into Salado
 
 - Possibly also the other Beitel Creek branch along Crestwind if we are good for help. 
 
