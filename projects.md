@@ -6,7 +6,7 @@ permalink: /projects/
 
 # Projects
 
-<ul class="project-list">
+<ul class="projects-page project-list">
   {% for project in site.categories.project %}
   <li>
     <a href="{{ project.url }}">

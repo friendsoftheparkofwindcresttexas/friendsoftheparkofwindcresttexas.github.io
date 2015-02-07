@@ -3,6 +3,9 @@
 
   {% include head.html %}
 
+  <!--[if lte IE 9]>
+  <link rel="stylesheet" href="{{ "/css/ie.css" | prepend: site.baseurl }}">
+  <![endif]-->
   <body>
 
     {% include header.html %}

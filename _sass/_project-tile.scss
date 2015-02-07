@@ -45,6 +45,7 @@
 }
 
 .tile-list {
+    @include flex(1 1 auto);
     @include flex-flow(row wrap);
     @include flexbox;
     @include justify-content(space-around);
