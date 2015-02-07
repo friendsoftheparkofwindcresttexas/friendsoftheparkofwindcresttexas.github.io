@@ -25,7 +25,7 @@ I believe if we set Brook Falls Lake as a meeting point we can plan on doing:
 
 - Walzem Creek from Golf course/Midcrown past Windway to Windsor Hill
 
-     # Yes, all of our creekways drain into Salado
+     ... yes, all of our creekways drain into Salado
 
 - Possibly also the other Beitel Creek branch along Crestwind if we are good for help. 
 
