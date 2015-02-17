@@ -3,17 +3,32 @@
   role: President
   description: Looking forward to providing leadership to our organization in the spirit of Ted Hanes and Donald Myles.
 
-- name: Mrs. Ann Friday
+- name: Jack Leonhardt
   image:
   role: Secretary
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio quos itaque voluptas ab. Nemo eaque est vel magnam quisquam, voluptate, ducimus tenetur.
 
-- name: Mrs. Evelyn Eans
+- name: Evelyn Eans
   image:
-  role: Director
+  role: Vice President
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio quos itaque voluptas ab. Nemo eaque est vel magnam quisquam, voluptate, ducimus tenetur.
 
 - name: Donald Myles
   image: /images/Don Myles.JPG
   role: Treasurer
   description: Working to keep Windcrest's Parks and Green Spaces beautiful.
+
+- name: JoAnn Hilliard
+  image: 
+  role: Director
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio quos itaque voluptas ab. Nemo eaque est vel magnam quisquam, voluptate, ducimus tenetur.
+
+- name: Gary Fisher
+  image: 
+  role: Director
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio quos itaque voluptas ab. Nemo eaque est vel magnam quisquam, voluptate, ducimus tenetur.
+
+- name: Peg Gorton
+  image: 
+  role: Director
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio quos itaque voluptas ab. Nemo eaque est vel magnam quisquam, voluptate, ducimus tenetur.
