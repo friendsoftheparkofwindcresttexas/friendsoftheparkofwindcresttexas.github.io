@@ -27,7 +27,7 @@ I believe if we set Takas Park as a meeting point we can plan on doing:
 
      ... yes, all of our creekways drain into Salado
 
-- Possibly also the other Beitel Creek branch along Crestwind if we are good for help.
+
  
 
 #### Here's a small record of what we and other community volunteers accomplished.
