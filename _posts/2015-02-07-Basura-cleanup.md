@@ -29,8 +29,8 @@ I believe if we set Takas Park as a meeting point we can plan on doing:
 
 - Possibly also the other Beitel Creek branch along Crestwind if we are good for help. 
 
-### Here's a small record of what we and other community volunteers accomplished.
-1. ![Gathering in morning at Takas Park](friendsoftheparkofwindcresttexas.github.io/images/Images, Basura 2015/Basura 2015, getting ready at Takas Park.htm)
+#### Here's a small record of what we and other community volunteers accomplished.
+1. ![Gathering in morning at Takas Park](/images/Images, Basura 2015/Basura 2015, getting ready at Takas Park.htm)
 2. /images/Images, Basura 2015, Basura 2015, cleaning creek.jpg 
 3. /images/Images, Basura 2015, Basura 2015, Jack Leonhardt collecting trash.jpg
 4. /images/Images, Basura 2015, Basura 2015, Scott Gorton helping collect trash.jpg
