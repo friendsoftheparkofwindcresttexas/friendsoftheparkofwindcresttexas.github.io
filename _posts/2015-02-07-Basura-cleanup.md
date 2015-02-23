@@ -35,13 +35,13 @@ I believe if we set Takas Park as a meeting point we can plan on doing:
 
 ![Cleaning the creek](/images/Images, Basura 2015/Basura 2015, cleaning creek.jpg) 
 
-/images/Images, Basura 2015, Basura 2015, Jack Leonhardt collecting trash.jpg
+![Jack Leonhardt collecting trash](/images/Images, Basura 2015/Basura 2015, Jack Leonhardt collecting trash.jpg)
 
-/images/Images, Basura 2015, Basura 2015, Scott Gorton helping collect trash.jpg
+![Scott Gorton helping collect trash](/images/Images, Basura 2015/Basura 2015, Scott Gorton helping collect trash.jpg)
 
-/images/Images, Basura 2015, Basura 2015, Scott Gorton retrieving mattresses.jpg
+![Scott Gorton retrieving mattresses](/images/Images, Basura 2015/Basura 2015, Scott Gorton retrieving mattresses.jpg)
 
-/images/Images, Basura 2015, Rosillo east start.jpg
+![Rosillo Creek east start](/images/Images, Basura 2015/Rosillo east start.jpg)
 
 /images/Images, Basura 2015, Rosillo east finish.jpg
 
