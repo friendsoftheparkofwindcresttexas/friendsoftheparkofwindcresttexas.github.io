@@ -31,15 +31,24 @@ I believe if we set Takas Park as a meeting point we can plan on doing:
  
 
 #### Here's a small record of what we and other community volunteers accomplished.
-![Gathering in morning at Takas Park](/images/Images, Basura 2015/Basura 2015, getting ready at Takas Park.htm)
+![Gathering in morning at Takas Park](/images/Images, Basura 2015/Basura 2015, getting ready at Takas Park.jpg)
 
-2. /images/Images, Basura 2015, Basura 2015, cleaning creek.jpg 
-3. /images/Images, Basura 2015, Basura 2015, Jack Leonhardt collecting trash.jpg
-4. /images/Images, Basura 2015, Basura 2015, Scott Gorton helping collect trash.jpg
-5. /images/Images, Basura 2015, Basura 2015, Scott Gorton retrieving mattresses.jpg
-6. /images/Images, Basura 2015, Rosillo east start.jpg
-7. /images/Images, Basura 2015, Rosillo east finish.jpg
-8. /images/Images, Basura 2015, Rosillo west start.jpg
-9. /images/Images, Basura 2015, Rosillo west working.jpg
-10. /images/Images, Basura 2015, Rosillo west finish.jpg
-11. /images/Images, Basura 2015, Rosillo trash load.jpg
+/images/Images, Basura 2015, Basura 2015, cleaning creek.jpg 
+
+/images/Images, Basura 2015, Basura 2015, Jack Leonhardt collecting trash.jpg
+
+/images/Images, Basura 2015, Basura 2015, Scott Gorton helping collect trash.jpg
+
+/images/Images, Basura 2015, Basura 2015, Scott Gorton retrieving mattresses.jpg
+
+/images/Images, Basura 2015, Rosillo east start.jpg
+
+/images/Images, Basura 2015, Rosillo east finish.jpg
+
+/images/Images, Basura 2015, Rosillo west start.jpg
+
+/images/Images, Basura 2015, Rosillo west working.jpg
+
+/images/Images, Basura 2015, Rosillo west finish.jpg
+
+/images/Images, Basura 2015, Rosillo trash load.jpg
