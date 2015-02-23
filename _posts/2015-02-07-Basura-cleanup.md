@@ -32,5 +32,5 @@ I believe if we set Takas Park as a meeting point we can plan on doing:
 [An example of what others have done](http://www.inside.iastate.edu/article/2013/07/11/creek)
 
 
-![Click here to see what we accomplished.](/images/Images, Basura 2015/Basura 2015, cleaning creek.jpg)
+[Here's a small record of what we and other community volunteers accomplished.](/images/Images, Basura 2015/Basura 2015, cleaning creek.jpg)
 
