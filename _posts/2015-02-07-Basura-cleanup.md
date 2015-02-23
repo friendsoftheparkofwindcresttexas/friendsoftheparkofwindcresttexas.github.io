@@ -29,7 +29,7 @@ I believe if we set Takas Park as a meeting point we can plan on doing:
 
 - Possibly also the other Beitel Creek branch along Crestwind if we are good for help. 
 
-[Click here to see what we accomplished.]
+![Click here to see what we accomplished.]
 (/images/Images, Basura 2015/Basura 2015, cleaning creek.jpg)
 
 [An example of what others have done](http://www.inside.iastate.edu/article/2013/07/11/creek)
