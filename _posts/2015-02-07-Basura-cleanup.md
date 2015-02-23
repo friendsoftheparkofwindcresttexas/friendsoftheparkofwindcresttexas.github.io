@@ -43,12 +43,12 @@ I believe if we set Takas Park as a meeting point we can plan on doing:
 
 ![Rosillo Creek east start](/images/Images, Basura 2015/Rosillo east start.jpg)
 
-/images/Images, Basura 2015, Rosillo east finish.jpg
+![Rosillo Creek east finish](/images/Images, Basura 2015/Rosillo east finish.jpg)
 
-/images/Images, Basura 2015, Rosillo west start.jpg
+![Rosillo Creek west start](/images/Images, Basura 2015/Rosillo west start.jpg)
 
-/images/Images, Basura 2015, Rosillo west working.jpg
+![Rosillo Creek west working](/images/Images, Basura 2015/Rosillo west working.jpg)
 
-/images/Images, Basura 2015, Rosillo west finish.jpg
+![Rosillo Creek west finish](/images/Images, Basura 2015/Rosillo west finish.jpg)
 
-/images/Images, Basura 2015, Rosillo trash load.jpg
+![Rosillo Creek trash load](/images/Images, Basura 2015/Rosillo trash load.jpg)
