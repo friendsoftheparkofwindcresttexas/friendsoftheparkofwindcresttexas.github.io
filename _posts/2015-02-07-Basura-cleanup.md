@@ -13,7 +13,7 @@ A great day when we'll help clean our local waters
 ![Map of city wide cleanup](/images/basura map 21 Feb 15.jpg)
 
 
-## Scott Gorton, FOTP President:
+### Scott Gorton, FOTP President:
 
 8 am check in, 9 - noon clean up.
 
