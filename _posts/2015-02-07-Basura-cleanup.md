@@ -60,4 +60,4 @@ One of the fathers of a Windcrest Elementary student brought his bobcat, which h
 
 
 
-xxx![Jack Leonhardt collecting trash](/images/Images, Basura 2015/Basura 2015, Jack Leonhardt collecting trash.jpg)
+xxx [Jack Leonhardt collecting trash](/images/Images, Basura 2015/Basura 2015, Jack Leonhardt collecting trash.jpg) ... remember to add ! to start
