@@ -32,8 +32,7 @@ I believe if we set Takas Park as a meeting point we can plan on doing:
 
 ![Cleaning the creek](/images/Images, Basura 2015/Basura 2015, cleaning creek.jpg) 
 
-![Jack Leonhardt collecting trash](/images/Images, Basura 2015/Basura 2015, Jack Leonhardt collecting trash.jpg)
-{% include image.html src=”/images/Images, Basura 2015/Basura 2015, Jack Leonhardt collecting trash.jpg” caption=”Jack Leonhardt, member FOTP, collecting trash, pointing to more"%}
+![Jack Leonhardt collecting trash](/images/Images, Basura 2015/Basura 2015, Jack Leonhardt collecting trash.jpg){% include image.html src=”/images/Images, Basura 2015/Basura 2015, Jack Leonhardt collecting trash.jpg” caption=”Jack Leonhardt, FOTP, collecting trash, pointing to more"%}
 
 ![Scott Gorton helping collect trash](/images/Images, Basura 2015/Basura 2015, Scott Gorton helping collect trash.jpg)
 
