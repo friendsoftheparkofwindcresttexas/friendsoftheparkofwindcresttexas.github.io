@@ -41,6 +41,14 @@ I believe if we set Takas Park as a meeting point we can plan on doing:
 
 ![Scott Gorton retrieving mattresses](/images/Images, Basura 2015/Basura 2015, Scott Gorton retrieving mattresses.jpg)
 
+The photos below are all from the Rosillo Creek site, east of HEB.  While this effort was ongoing, others were sweeping Windcrest's areas. Volunteers included FOTP members, many Windcrest Elementary students from its Recycle Club, their parents, their teacher the amazing Chrystal Chavez.  
+
+Many passersby stopped to express curiosity about who we were and gratitude for the effort.  One young woman in a car paused and said, "I want to join you next year! Oh wait...I'll be away at college next year! But thank you!"
+
+SARA (San Antonio River Authority) provided gloves, construction bags, Fiesta medals, sanitizer, bananas, apples, water, and prompt pick-up of all we had collected.  
+
+One of the fathers of a Windcrest Elementary student brought his bobcat, which he used to scoop up lots of  material; most of the ton of material collected from this site and elsewhere, however, was hand-carried out of the water and the ravine up to curbside.  All had been picked up by SARA by noon...a very efficient sponsor!
+
 ![Rosillo Creek east start](/images/Images, Basura 2015/Rosillo east start.jpg)
 
 ![Rosillo Creek east finish](/images/Images, Basura 2015/Rosillo east finish.jpg)
