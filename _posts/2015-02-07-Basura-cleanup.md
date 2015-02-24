@@ -38,7 +38,7 @@ I believe if we set Takas Park as a meeting point we can plan on doing:
 
 ![Scott Gorton retrieving mattresses](/images/Images, Basura 2015/Basura 2015, Scott Gorton retrieving mattresses.jpg)
 
-The photos below are all from the Rosillo Creek site, east of HEB.  While this effort was ongoing, others were sweeping Windcrest's areas. Volunteers included FOTP members, many Windcrest Elementary students from its Recycle Club, their parents, their teacher the amazing Chrystal Chavez.  
+The photos are mostly from the Rosillo Creek site, east of HEB.  While this effort was ongoing, others were sweeping Windcrest's areas. Volunteers included FOTP members, many Windcrest Elementary students from its Recycle Club, their parents, their teacher the amazing Chrystal Chavez.  
 
 Many passersby stopped to express curiosity about who we were and gratitude for the effort.  One young woman in a car paused and said, "I want to join you next year! Oh wait...I'll be away at college next year! But thank you!"
 
