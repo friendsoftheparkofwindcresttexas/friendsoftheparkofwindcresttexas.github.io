@@ -13,7 +13,7 @@ A great day when we'll help clean our local waters
 ![Map of city wide cleanup](/images/basura map 21 Feb 15.jpg)
 
 
-## Scott Gorton:
+## Scott Gorton, FOTP President:
 
 8 am check in, 9 - noon clean up.
 
@@ -25,10 +25,7 @@ I believe if we set Takas Park as a meeting point we can plan on doing:
 
 - Walzem Creek from Golf course/Midcrown past Windway to Windsor Hill
 
-     ... yes, all of our creekways drain into Salado
-
-
- 
+     
 
 #### Here's a small record of what we and other community volunteers accomplished.
 ![Gathering in morning at Takas Park](/images/Images, Basura 2015/Basura 2015, getting ready at Takas Park.jpg)
