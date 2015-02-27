@@ -2,7 +2,7 @@
 layout: post
 title:  "Basura Cleanup, February 21st"
 categories: news
-excerpt: Come and help clean up local waters
+excerpt: We help clean up local waters
 image: /images/basura map 21 Feb 15.jpg 
 ---
 
