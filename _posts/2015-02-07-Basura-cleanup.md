@@ -5,13 +5,11 @@ categories: news
 excerpt: We help clean up local waters
 image: /images/basura map 21 Feb 15.jpg 
 ---
-
 ### Basura Cleanup
 
 A great day we helped clean our community.
 
 ![Map of city wide cleanup](/images/basura map 21 Feb 15.jpg)
-
 
 #### Here's a small record of what we and other community volunteers accomplished.
 
