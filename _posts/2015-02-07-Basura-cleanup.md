@@ -19,16 +19,16 @@ We gathered in the morning at Takas Park.
 Cleaning Rosillo Creek with volunteers from throughout the community.
 ![Cleaning the creek](/images/Images, Basura 2015/Basura 2015, cleaning creek.jpg) 
 
-FOTP member Jack Leonhardt at work.
+FOTP member Jack Leonhardt.
 {% include image.html src=”/images/Images, Basura 2015/Basura 2015, Jack Leonhardt collecting trash.jpg” caption=”Jack Leonhardt, FOTP, collecting trash, pointing to more"%}
 
-FOTP president Scott Gorton at work.
+FOTP president Scott Gorton.
 ![Scott Gorton helping collect trash](/images/Images, Basura 2015/Basura 2015, Scott Gorton helping collect trash.jpg)
 
-Hard to believe someone would throw mattresses into a wooded area.
+Hard to believe mattresses could be discarded into a wooded area.
 ![Scott Gorton retrieving mattresses](/images/Images, Basura 2015/Basura 2015, Scott Gorton retrieving mattresses.jpg)
 
-FOTP member Ann Friday's report:
+FOTP member Ann Friday:
 "The photos are mostly from the Rosillo Creek site, east of HEB.  While this effort was ongoing, others were sweeping Windcrest's areas. Volunteers included FOTP members, many Windcrest Elementary students from its Recycle Club, their parents, their teacher the amazing Chrystal Chavez.  
 
 Many passersby stopped to express curiosity about who we were and gratitude for the effort.  One young woman in a car paused and said, "I want to join you next year! Oh wait...I'll be away at college next year! But thank you!"
