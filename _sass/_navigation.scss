@@ -44,7 +44,7 @@ nav {
     }
 }
 
-@media screen and (min-width: 961px), (-ms-high-contrast: none), (-ms-high-contrast: active) {
+@media screen and (min-width: 961px) {
 
     nav {
         @include rem(height, 3.5);
