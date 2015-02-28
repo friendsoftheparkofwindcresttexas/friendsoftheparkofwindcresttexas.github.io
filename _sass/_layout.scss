@@ -40,10 +40,3 @@ main {
 .projects-page.project-list {
     max-width: 100%;
 }
-
-/* IE10+ CSS styles go here */
-@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
-    html, body {
-        height: 100%;
-    }
-}
