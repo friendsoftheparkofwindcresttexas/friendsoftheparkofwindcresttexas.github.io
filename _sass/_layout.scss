@@ -1,4 +1,5 @@
-body {
+html, body {
+    height: 100%;
     @include flexbox;
     @include flex-direction(column);
     background-color: rgb(236, 236, 236);
