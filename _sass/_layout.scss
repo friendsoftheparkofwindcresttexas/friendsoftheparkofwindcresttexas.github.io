@@ -1,5 +1,4 @@
 html, body {
-    height: 100%;
     @include flexbox;
     @include flex-direction(column);
     background-color: rgb(236, 236, 236);
@@ -30,7 +29,8 @@ main {
     @include flex(1 1 auto);
     @include flexbox;
     @include align-items(center);
-    @include justify-content(space-between);
+    @include justify-content(center);
+    @include align-self(center);
 }
 
 .membership-levels {
@@ -39,4 +39,11 @@ main {
 
 .projects-page.project-list {
     max-width: 100%;
+}
+
+/* IE10+ CSS styles go here */
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    html, body {
+        height: 100%;
+    }
 }
