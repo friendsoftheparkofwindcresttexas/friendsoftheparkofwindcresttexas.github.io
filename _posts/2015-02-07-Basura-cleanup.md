@@ -19,8 +19,10 @@ We gathered in the morning at Takas Park.
 Cleaning Rosillo Creek with volunteers from throughout the community.
 ![Cleaning the creek](/images/Images, Basura 2015/Basura 2015, cleaning creek.jpg) 
 
+
 FOTP member Jack Leonhardt.
 ![Jack Leonhardt collecting trash](/images/Images, Basura 2015/Basura 2015, Jack Leonhardt collecting trash.jpg)
+
 
 FOTP president Scott Gorton.
 ![Scott Gorton helping collect trash](/images/Images, Basura 2015/Basura 2015, Scott Gorton helping collect trash.jpg)
