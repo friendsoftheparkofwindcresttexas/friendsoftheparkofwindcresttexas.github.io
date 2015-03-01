@@ -22,6 +22,8 @@ Cleaning Rosillo Creek with volunteers from throughout the community.
 FOTP member Jack Leonhardt.
 ![Jack Leonhardt collecting trash](/images/Images, Basura 2015/Basura 2015, Jack Leonhardt collecting trash.jpg)
 
+{% include image.html src="/images/Images, Basura 2015/Basura 2015, Jack Leonhardt collecting trash.jpg" caption="Jack Leonhardt, FOTP, collecting trash, pointing to more"%}
+
 FOTP president Scott Gorton.
 ![Scott Gorton helping collect trash](/images/Images, Basura 2015/Basura 2015, Scott Gorton helping collect trash.jpg)
 
@@ -53,4 +55,7 @@ Rosillo Creek west ... after
 ![Rosillo Creek west finish](/images/Images, Basura 2015/Rosillo west finish.jpg)
 
 Rosillo Creek trash collected
+![Rosillo Creek trash load](/images/Images, Basura 2015/Rosillo trash load.jpg)
+
+Rosillo Creek trash collected:
 ![Rosillo Creek trash load](/images/Images, Basura 2015/Rosillo trash load.jpg)

@@ -49,7 +49,6 @@
     @include flex-flow(row wrap);
     @include flexbox;
     @include justify-content(space-around);
-    height: 100%;
     margin: 0 auto;
     min-height: 300px;
     overflow: auto;
