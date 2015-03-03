@@ -20,7 +20,7 @@ Cleaning Rosillo Creek with volunteers from throughout the community.
 ![Cleaning the creek](/images/Images, Basura 2015/Basura 2015, cleaning creek.jpg) 
 
 FOTP member Jack Leonhardt.
-{% include image.html src="/images/Images, Basura 2015/Basura 2015, Jack Leonhardt collecting trash.jpg" caption="Jack Leonhardt, FOTP, collecting trash, pointing to more"%}
+![Jack Leonhardt collecting trash](/images/Images, Basura 2015/Basura 2015, Jack Leonhardt collecting trash.jpg)
 
 FOTP president Scott Gorton.
 ![Scott Gorton helping collect trash](/images/Images, Basura 2015/Basura 2015, Scott Gorton helping collect trash.jpg)
@@ -37,24 +37,25 @@ SARA (San Antonio River Authority) provided gloves, construction bags, Fiesta me
 
 One of the fathers of a Windcrest Elementary student brought his bobcat, which he used to scoop up lots of  material; most of the ton of material collected from this site and elsewhere, however, was hand-carried out of the water and the ravine up to curbside.  All had been picked up by SARA by noon...a very efficient sponsor!"
 
-Rosillo Creek east ... before:
+Rosillo Creek east ... before
 ![Rosillo Creek east start](/images/Images, Basura 2015/Rosillo east start.jpg)
 
-Rosillo Creek east ... after:
+Rosillo Creek east ... after
 ![Rosillo Creek east finish](/images/Images, Basura 2015/Rosillo east finish.jpg)
 
-Rosillo Creek west ... before:
+Rosillo Creek west ... before
 ![Rosillo Creek west start](/images/Images, Basura 2015/Rosillo west start.jpg)
 
-Rosillo Creek west ... working:
+Rosillo Creek west ... working
 ![Rosillo Creek west working](/images/Images, Basura 2015/Rosillo west working.jpg)
 
-Rosillo Creek west ... after:
+Rosillo Creek west ... after
 ![Rosillo Creek west finish](/images/Images, Basura 2015/Rosillo west finish.jpg)
 
-Rosillo Creek trash collected:
+Rosillo Creek trash collected
 ![Rosillo Creek trash load](/images/Images, Basura 2015/Rosillo trash load.jpg)
 
+Rosillo Creek trash collected
+![Rosillo Creek trash load](/images/Images, Basura 2015/Rosillo trash load.jpg)
 
-
-rem ![Jack Leonhardt collecting trash](/images/Images, Basura 2015/Basura 2015, Jack Leonhardt collecting trash.jpg)
+[Link to NEISD website](http://www.neisd.net/ComRel/News/Windcrest_BasuraBash_15.htm) is a great report on the event by the schoolchildren who worked with us.
