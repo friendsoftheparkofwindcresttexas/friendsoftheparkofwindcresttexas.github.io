@@ -12,5 +12,6 @@ Rackspace volunteers show they can work with their hands too, designing, constru
 
 Photo below taken just after this sign was placed in the ground.
 ![photo of FOTP members and RS volunteers](/images/Rackers Volunteer Week, Nov 14, Autumn Sunset.jpg)
+
 FOTP members Joann Hilliard, left and Gary Fisher, right ... with terrific Rackspace volunteers 
 
