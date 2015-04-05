@@ -18,7 +18,7 @@ Next two photos are of the planting near Takas Park on April 4, 2015.
 Left to right: Pat Gorton, TBD, Tom Friday, TBD, Ann Friday. 
 Not shown: Scott Gorton (behind the camera)
 
+Yes, really, it was a cold day in Texas in April.
+
 All done! Can't wait to come back in a few months for another photo.
 ![garden fully planted](/images/milkweed gardens/Takas Park garden, completed.JPG)
-
-Yes, really, it was a cold day in Texas in April.
