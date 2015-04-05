@@ -6,7 +6,7 @@ excerpt: Migrating monarch butterflies need sustenance. We try to help by planti
 image: /images/milkweed gardens/Monarch_Butterflies.jpg
 ---
 
-### Planting milkweed gardens
+### FOTP planting gardens for monarch butterflies, April 2015
 
 Monarch butterflies coming up from Mexico pass through and around Windcrest. This year we're going to help them by planting some of their favorite flowers: butterfly bush, lantana, plumbago, esperanza, milkweed later on, and more. 
 
