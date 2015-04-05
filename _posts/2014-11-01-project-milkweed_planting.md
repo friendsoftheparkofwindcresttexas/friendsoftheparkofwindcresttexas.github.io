@@ -12,7 +12,7 @@ Monarch butterflies coming up from Mexico pass through and around Windcrest. Thi
 
 FOTP will be planting gardens like this all around town in coming months and years.
 
-Next two photos are of the planting near Takas Park on April 4, 2015.
+Following photos are of the planting near Takas Park on April 4, 2015.
 ![planting in garden](/images/milkweed gardens/milkweed planting, Takas Park, 1, low res.jpg)
 ![Takas Park butterfly garden volunteers](/images/milkweed gardens/milkweed planting, FOTP volunteers, Takas Park, 1, low res.jpg)
 Left to right: Pat Gorton, TBD, Tom Friday, TBD, Ann Friday. 
