@@ -2,8 +2,7 @@
 layout: post
 title:  Windcrest Parks We're Proud Of
 categories: news
-excerpt: We hope these photos convey some of why we love living in Windcrest, TX.
-A couple of nice photos of the pond at Takas Park.
+excerpt: We hope these photos convey a little of why we love Windcrest, TX.
 image: /images/pond near Takas Park 1.jpg
 image: /images/pond near Takas Park 2.jpg
 ---
