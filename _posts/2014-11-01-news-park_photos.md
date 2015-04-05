@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  Windcrest Parks We're Proud Of
+title:  Windcrest parks
 categories: news
-excerpt: 
+excerpt: Random photos of our beautiful parks
 image: /images/pond near Takas Park 1.jpg
-image: /images/pond near Takas Park 2.jpg
 ---
-### Around Windcrest's parks
-We hope these photos convey a little of why we love our town, Windcrest, TX.
 
-Next two photos are of the pond near Takas Park.
-!(/images/pond near Takas Park 1.jpg)
-!(/images/pond near Takas Park 2.jpg)
+### Around Windcrest's parks
+
+These photos might convey a little of why we love our Windcrest, TX.
+
+Next two photos are of the small pond near Takas Park.
+![pond near Takas Park](/images/pond near Takas Park 1.jpg)
+![pond near Takas Park](/images/pond near Takas Park 2.jpg)
