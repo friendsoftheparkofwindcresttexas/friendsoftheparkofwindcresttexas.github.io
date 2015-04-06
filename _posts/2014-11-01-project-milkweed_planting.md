@@ -16,14 +16,14 @@ Following photos are of the planting near Takas Park on April 4, 2015.
 ![planting in garden](/images/milkweed gardens/milkweed planting, Takas Park, 1, low res.jpg)
 ![Takas Park butterfly garden volunteers](/images/milkweed gardens/milkweed planting, FOTP volunteers, Takas Park, 1, low res.jpg)
 Left to right: Pat Gorton, TBD, Tom Friday, TBD, Ann Friday. 
-Not shown: Scott Gorton (behind the camera)
+Not shown: Terry Gorton and Scott Gorton.
 
 Yes, really, it was a cold day in Texas in April.
 
 All done! Can't wait to come back in a few months for another photo.
 ![garden fully planted](/images/milkweed gardens/Takas Park garden, completed.JPG)
 
-[link to more on flowers and butterflies](http://www.fws.gov/pollinators/)
+[link to more on pollinators](http://www.fws.gov/pollinators/)
 
 A real nice looking result but nothing compared to one or two months from now.
 
