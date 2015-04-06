@@ -2,7 +2,7 @@
 layout: post
 title:  Monarch Butterflies
 categories: project
-excerpt: Migrating monarch butterflies need sustenance. We try to help by planting milkweed gardens.
+excerpt: Migrating monarch butterflies need sustenance along the way. We try to help by planting gardens for them.
 image: /images/milkweed gardens/Monarch_Butterflies.jpg
 ---
 
