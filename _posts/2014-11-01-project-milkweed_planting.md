@@ -24,8 +24,8 @@ Yes, really, it was a cold day in Texas in April.
 
 ![garden fully planted](/images/milkweed gardens/Takas Park garden, completed.JPG)
 
-[More on pollinators](http://www.fws.gov/pollinators/)
-
 A real nice looking result but nothing compared to one or two months from now.
 
 Wait and see!
+
+[More on pollinators](http://www.fws.gov/pollinators/)
