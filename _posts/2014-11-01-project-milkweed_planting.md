@@ -22,7 +22,6 @@ Not shown: Terry Gorton and Scott Gorton.
 
 Yes, really, it was a cold day in Texas in April.
 
-All done! Can't wait to come back in a few months for another photo.
 ![garden fully planted](/images/milkweed gardens/Takas Park garden, completed.JPG)
 
 [More on pollinators](http://www.fws.gov/pollinators/)
