@@ -12,7 +12,7 @@ Windcrest Friends of the Park partnered with the City of Windcrest to provide a 
 
 [More on pollinators](http://www.fws.gov/pollinators/)
 
-In addition, these gardens will provide color in a natural setting for our local parks. They will also serve as viewing center for local students and teachers.
+In addition, these gardens will provide color in a natural setting for our parks. They will also serve as viewing center for local students and teachers.
 
 Monarch butterflies have declined to 10% of their previous population and are due to become an endangered species. They need all the help we can give.
 
