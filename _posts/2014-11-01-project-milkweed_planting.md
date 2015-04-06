@@ -16,7 +16,7 @@ In addition, these gardens will provide color in a natural setting for our parks
 
 Monarch butterflies have declined to 10% of their previous population and are due to become an endangered species. They need all the help we can give.
 
-FOTP got help from Tom Garcia and his crew (Windcrest Public Works) with a nice effort in trimming/mowing, both here and earlier this week at the Windy Hollow Island. A super effort from our Windcrest Friends of the Park work team.
+FOTP received much help from Tom Garcia and his crew (Windcrest Public Works) in trimming/mowing, both here and earlier this week at the Windy Hollow Island. A super effort from our Windcrest Friends of the Park work team.
 
 Following photos are of the planting near Takas Park on April 4, 2015.
 ![planting in garden](/images/milkweed gardens/milkweed planting, Takas Park, 1, low res.jpg)
