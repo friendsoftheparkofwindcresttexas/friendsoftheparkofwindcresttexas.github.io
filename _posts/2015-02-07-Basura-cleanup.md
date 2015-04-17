@@ -55,7 +55,4 @@ Rosillo Creek west ... after
 Rosillo Creek trash collected
 ![Rosillo Creek trash load](/images/Images, Basura 2015/Rosillo trash load.jpg)
 
-Rosillo Creek trash collected
-![Rosillo Creek trash load](/images/Images, Basura 2015/Rosillo trash load.jpg)
-
 [Link to NEISD website](http://www.neisd.net/ComRel/News/Windcrest_BasuraBash_15.htm) is a great report on the event by the schoolchildren who worked with us.
