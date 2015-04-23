@@ -2,7 +2,7 @@
 layout: post
 title:  "Planting Trees in Windcrest"
 categories: news
-excerpt: Mark Kroeze, Texas A&M Forest Service (son supervising) and FOTP member Steve Kohn
+excerpt: Mark Kroeze, Texas A&M Forest Service (with son supervising) and FOTP member Steve Kohn
 image: /images/FOTP, Mark Kroeze, Texas Urban Forestry and Steve Kohn, April 2014.JPG 
 ---
 
