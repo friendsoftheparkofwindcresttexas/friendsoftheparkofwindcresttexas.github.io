@@ -1,1 +1,0 @@
-{% include image.html src="/images/Images, Basura 2015/Basura 2015, Jack Leonhardt collecting trash.jpg" caption="Jack Leonhardt, FOTP, collecting trash, pointing to more"%}
